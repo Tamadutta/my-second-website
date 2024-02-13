@@ -1,0 +1,25 @@
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+}
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+.blog{
+    margin: 40px;
+    border: solid tomato;
+    box-shadow: 10px 10px 20px color(srgb red green blue);
+}
+.mot{
+    border: 5px solid blueviolet;
+}
+li{
+    display: inline;
+}
+.header{
+   height: 100px;
+  background-image: url('screenshot_1.png');
+  text-decoration: rgb(228, 64, 14);
+}
